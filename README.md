@@ -1,2 +1,2 @@
-# CyberSHIELD-Labs
+# CyberSHIELD Labs
 CyberSHIELD Labs
