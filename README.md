@@ -44,3 +44,7 @@ The password and web tools that used to live in `password-strength-checker/` and
 Labs 1–8 work only on bundled or user-selected local files. They do not contact any network service or run payloads. Lab 9 sends HTTP `HEAD` requests, but only to `localhost` or loopback IP addresses. It ignores proxy settings so requests never leave the machine, and its `--demo` mode serves a temporary synthetic site on `127.0.0.1`. Only assess systems you own or are explicitly authorized to test.
 
 These are teaching examples, not production security products. Their checks are intentionally limited. For real environments, rely on organizational policy, current vendor documentation, and qualified review. No lab claims to predict all threats or provide a complete compliance assessment.
+
+## License
+
+Copyright 2026 CybersecurityOS. Licensed under the [Apache License, Version 2.0](./LICENSE). Documentation for these labs is also published at [cybersecurityos.net/docs/cybershield-labs](https://www.cybersecurityos.net/docs/cybershield-labs/).
