@@ -1,0 +1,14 @@
+[
+  {
+    "name": "customer-records-demo",
+    "encrypted": true,
+    "immutable": false,
+    "last_restore_test": "2025-10-01T10:00:00Z"
+  },
+  {
+    "name": "analytics-demo",
+    "encrypted": true,
+    "immutable": true,
+    "last_restore_test": "2026-10-30T10:00:00Z"
+  }
+]

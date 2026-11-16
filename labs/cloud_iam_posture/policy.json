@@ -1,0 +1,16 @@
+{
+  "statements": [
+    {
+      "effect": "Allow",
+      "principal": {"AWS": "*"},
+      "actions": ["*"],
+      "resources": ["*"]
+    },
+    {
+      "effect": "Allow",
+      "principal": {"AWS": "role/report-reader"},
+      "actions": ["storage:List"],
+      "resources": ["reports/monthly"]
+    }
+  ]
+}

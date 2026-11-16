@@ -1,0 +1,11 @@
+# Synthetic teaching examples only. Never put real passwords in this file.
+password
+P@ssw0rd!
+Password123456789!
+Qwerty1234567890
+12345678abcdefgh
+abcabcabcabcabcabc
+Aa1!
+Tr0ub4dor&3
+long-unique-passphrase
+correct-horse-battery-staple

@@ -1,0 +1,2 @@
+Synthetic training contact: alex@example.test, (555) 010-2020.
+Placeholder only; do not use real credentials: DEMO_API_KEY_ABCDEFGH1234
