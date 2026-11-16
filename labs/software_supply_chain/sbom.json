@@ -1,0 +1,16 @@
+{
+  "format": "CyberSHIELD educational inventory",
+  "components": [
+    {
+      "name": "demo-parser",
+      "version": "1.4.2",
+      "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "source": "internal training registry"
+    },
+    {
+      "name": "demo-helper",
+      "version": "latest",
+      "source": "training example"
+    }
+  ]
+}

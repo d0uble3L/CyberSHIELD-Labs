@@ -1,0 +1,1 @@
+"""Backup resilience exercise."""

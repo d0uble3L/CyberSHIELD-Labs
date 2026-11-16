@@ -1,0 +1,1 @@
+"""Cloud IAM posture exercise."""

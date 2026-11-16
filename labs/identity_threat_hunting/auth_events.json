@@ -1,0 +1,11 @@
+[
+  {"timestamp": "2026-03-10T09:00:00Z", "user": "alex", "type": "login_failure"},
+  {"timestamp": "2026-03-10T09:01:00Z", "user": "alex", "type": "login_failure"},
+  {"timestamp": "2026-03-10T09:02:00Z", "user": "alex", "type": "login_failure"},
+  {"timestamp": "2026-03-10T09:03:00Z", "user": "alex", "type": "login_failure"},
+  {"timestamp": "2026-03-10T09:04:00Z", "user": "alex", "type": "login_failure"},
+  {"timestamp": "2026-03-10T09:05:00Z", "user": "alex", "type": "login_success"},
+  {"timestamp": "2026-03-10T09:06:00Z", "user": "sam", "type": "mfa_denied"},
+  {"timestamp": "2026-03-10T09:07:00Z", "user": "sam", "type": "mfa_denied"},
+  {"timestamp": "2026-03-10T09:08:00Z", "user": "sam", "type": "mfa_denied"}
+]

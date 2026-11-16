@@ -1,0 +1,1 @@
+"""AI application safety exercise."""
